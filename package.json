@@ -7,6 +7,6 @@
   "type": "commonjs",
   "main": "index.js",
   "dependencies": {
-    "eslint": "9.31.0"
+    "eslint": "9.32.0"
   }
 }
